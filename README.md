@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Shah</h1>
-<h3 align="left">A passionate software engineer double majoring in Computer Science and Mathematics at SMU</h3>
+# Hi 👋, I'm Yash Shah
+### A passionate software engineer double majoring in Computer Science and Mathematics at SMU
 
 - 🔭 I’m currently working on [Smart Edit Advisor](https://github.com/YashShah138/smart_edit_advisor) and [Engine Symphony Visualizer](https://github.com/YashShah138/engine_symphony_visualizer)
 
@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -36,9 +36,6 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashshah138&show_icons=true&locale=en&layout=compact" alt="yashshah138" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshah138&" alt="yashshah138" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashshah138&show_icons=true&locale=en&layout=compact" alt="yashshah138" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshah138&" alt="yashshah138" />
 </p>
