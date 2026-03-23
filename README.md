@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Bollywood movies and music**
 
-- ⚡ Fun fact **I love watches and shoot nature/landscape photography on weekends**
+- ⚡ Fun fact **I love watches and shooting nature/landscape photography on weekends**
 
 
 
