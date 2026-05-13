@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yash Shah
 ### A passionate software engineer triple majoring in Computer Science, Mathematics, and Data Science at SMU
 
-- 🔭 I’m currently working on [Smart Edit Advisor](https://github.com/YashShah138/smart_edit_advisor) and [Engine Symphony Visualizer](https://github.com/YashShah138/engine_symphony_visualizer)
+- 🔭 I’m currently working on [FORGE](https://github.com/YashShah138/forge/)
 
 - 🌱 I’m currently learning **Next.js, Three.js, and PyTorch, while taking Stanford’s CS231n and exploring vector databases with qdrant**
 
